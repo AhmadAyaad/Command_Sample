@@ -1,0 +1,13 @@
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\bin\Debug\netcoreapp3.1\CommandDPSample.exe
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\bin\Debug\netcoreapp3.1\CommandDPSample.deps.json
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\bin\Debug\netcoreapp3.1\CommandDPSample.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\bin\Debug\netcoreapp3.1\CommandDPSample.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\bin\Debug\netcoreapp3.1\CommandDPSample.dll
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\bin\Debug\netcoreapp3.1\CommandDPSample.pdb
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.dll
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.pdb
+C:\Users\ahmed.ayaad\source\repos\CommandDPSample\CommandDPSample\obj\Debug\netcoreapp3.1\CommandDPSample.genruntimeconfig.cache
